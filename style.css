@@ -19,9 +19,18 @@
     }
 
     .container {
-        display:flex;
+        display:grid;
         justify-content: space-between;
         align-items: center;
+    }
+
+   .image-gallery {
+        align-self:center;
+    }
+
+    a {
+        text-decoration: none;
+        text-emphasis: none;
     }
     
     
