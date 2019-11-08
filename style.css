@@ -19,10 +19,13 @@
     }
 
     .container {
-        display:grid;
-        justify-content: space-between;
+        display:flex;
+        justify-content:flex-start;
         align-items: center;
     }
+    .image-gallery {
+        align-self:stretch;
+        }
 
    .image-gallery {
         align-self:center;
