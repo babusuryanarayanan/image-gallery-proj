@@ -25,10 +25,15 @@
     }
     .image-gallery {
         align-self:stretch;
+        }
+
+   .image-gallery {
+        align-self:center;
     }
 
     a {
         text-decoration: none;
+        text-emphasis: none;
     }
     
     
